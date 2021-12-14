@@ -8,4 +8,5 @@ const devsData ='[{"id":1,"name":"Ismail Juma","age":21,"skill":"java","gender":
 const alldata = [studentData,familyDate,devsData];
 
 
+console.log(alldata);
 
